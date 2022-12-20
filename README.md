@@ -6,7 +6,7 @@
 [![Fork this repo](https://badgen.net/github/forks/blank-yt/Dark-Light-Mode-Switch-Using-Cookies)](https://github.com/blank-yt/Dark-Light-Mode-Switch-Using-Cookies/fork/)
 [![Releases](https://img.shields.io/github/downloads/blank-yt/Dark-Light-Mode-Switch-Using-Cookies/total.svg)](https://github.com/blank-yt/Dark-Light-Mode-Switch-Using-Cookies/archive/refs/tags/Release.zip)
 
-Status: [![Heroku](https://pyheroku-badge.herokuapp.com/?app=dark-light-mode-switch&style=flat)](https://dark-light-mode-switch.herokuapp.com/) [`(Test it out here)`](https://dark-light-mode-switch.herokuapp.com/)
+Status: [![success](https://user-images.githubusercontent.com/100468888/208658036-514215da-7838-44a9-8468-3a37e7e73b13.png)](https://playcs.eu/blank/0fe093ae7fbdfefbf0b2a597c9a220be/) [`(Test it out here)`](https://playcs.eu/blank/0fe093ae7fbdfefbf0b2a597c9a220be/)
 
 ## Getting Started
 - Either click `Code` (green button on the top of the repository) and then [`Download ZIP`](https://github.com/blank-yt/Dark-Light-Mode-Switch-Using-Cookies/archive/refs/tags/Release.zip)
